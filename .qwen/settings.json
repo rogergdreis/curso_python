@@ -1,0 +1,25 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python3 *)",
+      "Bash(timeout *)",
+      "Bash(true)",
+      "Read(//home/roger/Documentos/dub/**)",
+      "Bash(python *)",
+      "Bash(ls *)",
+      "Bash(source *)",
+      "Bash(pip install *)",
+      "Bash(gsettings *)",
+      "Bash(zenity *)",
+      "Bash(gio *)",
+      "Bash(sleep *)",
+      "Bash(kill *)",
+      "Bash(dbus-send *)",
+      "Bash(then)",
+      "Bash(else)",
+      "Bash(wait *)",
+      "Bash(fi)"
+    ]
+  },
+  "$version": 3
+}
